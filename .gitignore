@@ -1,0 +1,8 @@
+# Ignore generated files
+*~
+*.log
+*.iml
+*.ipr
+*.iws
+*_IS_UNDEFINED
+
